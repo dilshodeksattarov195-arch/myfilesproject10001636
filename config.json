@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvave",
+        "uuid": 8737876,
+        "checksum": "a5qtm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
